@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Vincent Wu ✨
 
-- 🔭 I’m currently working as a PhD student at Imperial College London
-- 🌱 I'm interested in *Computer Vision* and *Construction Site Safety*.
-- 📫 Feel free to reach me by [email](mailto:zhengyu.wu21@imperial.ac.uk).
-- ⚡ Fun fact: I am also a big fan of reverse engineering and Minecraft-related stuff. I am the founder of [Nukkit](https://github.com/Nukkit/Nukkit).
+- 🔭 I’m currently a PhD student at Imperial College London.
+- 🌱 I'm interested in Computer Vision and Construction Site Safety.
+- 📫 Feel free to reach out to me by [email](mailto:magicdroidx@gmail.com).
+- ⚡ Fun fact: I'm a big fan of reverse engineering and Minecraft. I am the founder of [Nukkit](https://github.com/Nukkit/Nukkit), a Minecraft server software.
 
 <!--
 **Vincent-ZW/Vincent-ZW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
