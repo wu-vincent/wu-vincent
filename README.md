@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Zhengyu+Wu;Systems+Engineer+%7C+C%2B%2B+%26+Python;Building+High-Performance+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Vincent;Systems+Engineer+%7C+C%2B%2B+%26+Python;Building+High-Performance+Systems)](https://git.io/typing-svg)
 
 <p>
   <a href="https://linkedin.com/in/wu-zhengyu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
