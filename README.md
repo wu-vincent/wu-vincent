@@ -15,7 +15,7 @@
 
 - **PhD Candidate** at **Imperial College London**, building production-grade real-time computer vision systems with WebRTC streaming and Protobuf protocols.
 
-- **15+ years of programming experience** - I started coding at age 10 and created [Nukkit](https://github.com/CloudburstMC/Nukkit), the most widely-used Minecraft Bedrock server software, at age 15.
+- **15+ years of programming experience** - I started coding at age 10 and created [Nukkit](https://github.com/Nukkit/Nukkit), the most widely-used Minecraft Bedrock server software, at age 15.
 
 - Currently developing [Endstone](https://github.com/EndstoneMC/endstone), a high-performance C++/Python server platform with full ownership of architecture, CI/CD, Docker deployment, and production releases.
 
@@ -59,7 +59,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | **[Endstone](https://github.com/EndstoneMC/endstone)** | High-performance Minecraft Bedrock server platform with native C++ core and Python plugin API | `C++` `Python` `pybind11` `Docker` |
-| **[Nukkit](https://github.com/CloudburstMC/Nukkit)** | The most widely-used Minecraft Bedrock server software globally. | `Java` `Networking` `Protocol Engineering` |
+| **[Nukkit](https://github.com/Nukkit/Nukkit)** | The most widely-used Minecraft Bedrock server software globally. | `Java` `Networking` `Protocol` |
 
 ### ⚡ GitHub Stats
 
